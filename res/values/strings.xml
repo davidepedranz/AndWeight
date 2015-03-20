@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright © 2015 e-Health Research Unit - Fondazione Bruno Kessler -->
+<!-- http://ehealth.fbk.eu/ -->
+<!-- This document is a part of the source code and related artifacts of -->
+<!-- the TreC Project. All rights reserved. -->
+<!-- @author Davide Pedranz (davide.pedranz@gmail.com) -->
+
+<resources>
+
+    <string name="app_name">A&amp;D UC-351BTC-Ci</string>
+    <string name="button_start">Start Service</string>
+    <string name="button_stop">Stop Service</string>
+    <string name="tv_weight">"Weight: "</string>
+    <string name="tv_date">"Date: "</string>
+    <string name="empty">-</string>
+
+</resources>
